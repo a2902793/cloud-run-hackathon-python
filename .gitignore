@@ -1,2 +1,5 @@
 .gcloudignore
 .python-version
+test/
+.vscode/
+__pycache__/
